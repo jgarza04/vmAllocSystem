@@ -1,4 +1,4 @@
-#include "cpen212vm.h"
+#include "vmAlloc.h"
 #include <string.h>
 
 typedef struct freePageNode{
